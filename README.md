@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi from Tumtu4 ;) 👋
 
+    I'm a IT student 🐸 
+    This is where my projects are stored so enjoy exploring them ✨
 <!--
 **tumtu4/tumtu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
